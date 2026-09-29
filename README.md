@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=180&section=header&text=Thanushree%20M%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descSize=18&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Python+%7C+Kafka+%7C+Distributed+Systems;Building+agentic+AI+with+LangGraph;Fintech+infra+%2B+event-driven+architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E5C8A&center=true&vCenter=true&width=500&lines=Python+%2B+Kafka+%2B+Distributed+Systems;Agentic+AI+with+LangGraph" alt="Typing SVG" />
 
 </div>
 
@@ -20,7 +20,13 @@
 ### Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,kafka,fastapi,postgres,git" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
