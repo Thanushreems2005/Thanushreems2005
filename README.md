@@ -14,14 +14,13 @@
 - Built a Kafka event-driven payment ledger (exactly-once semantics, 10k events/sec) — **LedgerStream**
 - Built a multi-agent LLM assistant with LangGraph — **Placement Compass**
 - Interested in fintech infra, event-driven systems, and agentic AI
-- Currently learning Java + Spring Boot to widen backend scope
 
 ---
 
 ### Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,kafka,fastapi,postgres,aws,git,java,cpp" />
+<img src="https://skillicons.dev/icons?i=python,kafka,fastapi,postgres,git" />
 </div>
 
 ---
@@ -39,8 +38,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thanushree)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanushree.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanushree-m-s-345a5a282/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanushreems2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thanushreems2005)
 
 </div>
