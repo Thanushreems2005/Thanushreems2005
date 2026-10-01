@@ -1,15 +1,28 @@
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:05070A,50:0B1220,100:05070A&text=THANUSHREE%20M%20S&fontSize=48&fontColor=FFFFFF&animation=fadeIn&stroke=1F6FEB&strokeWidth=1&desc=Backend%20%C2%B7%20AI%20%C2%B7%20Data%20%C2%B7%20FinTech&descSize=18&descAlignY=70" width="100%"/>`{=html}
+<div align="center">
 
-`<br>`{=html}
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:05070A,50:0B1220,100:05070A&text=THANUSHREE%20M%20S&fontSize=48&fontColor=FFFFFF&animation=fadeIn&stroke=1F6FEB&strokeWidth=1&desc=Backend%20%C2%B7%20AI%20%C2%B7%20Data%20%C2%B7%20FinTech&descSize=18&descAlignY=70" width="100%"/>
 
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+%26+Software+Engineering;AI+%2F+Machine+Learning;Data+%26+Analytics;FinTech+%26+Financial+Systems;Building+things+that+didn%27t+exist+yesterday." />`{=html}
-:::::: {align="center"}
-### `hello, I'm Thanushree 👋`
+<br>
 
-**Final-year ECE student • Backend enthusiast • AI/ML explorer • Data
-lover**
-:::about me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+%26+Software+Engineering;AI+%2F+Machine+Learning;Data+%26+Analytics;FinTech+%26+Financial+Systems;Building+things+that+didn't+exist+yesterday." />
+
+</div>
+
+---
+
+<div align="center">
+
+## `hello, I'm Thanushree 👋`
+
+**Final-year ECE student • Backend enthusiast • AI/ML explorer • Data lover**
+
+</div>
+
+---
+
+## `about me`
+
+```text
 I'm interested in building things that are useful, reliable and intelligent.
 
 → Backend & Software Engineering
@@ -20,106 +33,96 @@ I'm interested in building things that are useful, reliable and intelligent.
 
 I enjoy taking an idea, turning it into a system,
 and learning something new while building it.
+
 things I like
-::: {align="center"}
-```{=html}
+<div align="center">
+
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
-<td align="center" width="180">
-```
-### ⚙️ Backend
 
-APIs\
-Systems\
-Architecture\
+<td align="center" width="180">
+
+⚙️
+Backend
+APIs
+Systems
+Architecture
 Automation
-
-```{=html}
 </td>
-```
-```{=html}
-<td align="center" width="180">
-```
-### 🤖 AI / ML
 
-Machine Learning\
-LLMs\
-AI Agents\
+<td align="center" width="180">
+
+🤖
+AI / ML
+Machine Learning
+LLMs
+AI Agents
 Intelligent Systems
-
-```{=html}
 </td>
-```
-```{=html}
-<td align="center" width="180">
-```
-### 📊 Data
 
-Analytics\
-SQL\
-Statistics\
+<td align="center" width="180">
+
+📊
+Data
+Analytics
+SQL
+Statistics
 Visualization
-
-```{=html}
 </td>
-```
-```{=html}
+
 <td align="center" width="180">
-```
-### 💳 FinTech
 
-Payments\
-Financial Systems\
-Fraud Detection\
+💳
+FinTech
+Payments
+Financial Systems
+Fraud Detection
 Experimentation
-
-```{=html}
 </td>
-```
-```{=html}
+
 </tr>
-```
-```{=html}
 </table>
-```
-:::my toolkit
-::: {align="center"}
-### Languages & Backend
 
-`<img src="https://skillicons.dev/icons?i=python,fastapi,flask" />`{=html}
+</div>
 
-`<br>`{=html}`<br>`{=html}
+my toolkit
+<div align="center">
 
-### Data & Databases
+Languages & Backend
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
 
-`<img src="https://skillicons.dev/icons?i=postgres,redis" />`{=html}
 
-`<br>`{=html}`<br>`{=html}
 
-### Infrastructure & Engineering
 
-`<img src="https://skillicons.dev/icons?i=kafka,docker,git,jenkins" />`{=html}
+Databases
+<img src="https://skillicons.dev/icons?i=postgres,redis" />
 
-`<br>`{=html}`<br>`{=html}
 
-### AI / Data
 
-`<img src="https://skillicons.dev/icons?i=sklearn" />`{=html}
 
-`<br>`{=html}`<br>`{=html}
+Infrastructure & Engineering
+<img src="https://skillicons.dev/icons?i=kafka,docker,git,jenkins" />
 
-`<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458"/>`{=html}
-`<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>`{=html}
-`<img src="https://img.shields.io/badge/XGBoost-0D1117?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/KNIME-0D1117?style=for-the-badge&logo=knime&logoColor=F5B800"/>`{=html}
-:::currently exploring
-::: {align="center"}
-``` text
+
+
+
+AI / Data
+<img src="https://skillicons.dev/icons?i=sklearn" />
+
+
+
+
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/XGBoost-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KNIME-0D1117?style=for-the-badge&logo=knime&logoColor=F5B800"/>
+
+</div>
+
+currently exploring
+<div align="center">
+
 ┌──────────────────────────────────────────────┐
 │                                              │
 │        Distributed Systems                   │
@@ -130,101 +133,96 @@ Experimentation
 │        Backend Architecture                  │
 │                                              │
 └──────────────────────────────────────────────┘
-```
-:::some things I've built
-::: {align="center"}
-```{=html}
+
+</div>
+
+some things I've built
+<div align="center">
+
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
+
 <td width="33%" align="center">
-```
-### 💳 LedgerStream
 
-**Payment Processing\
-& Fraud Detection**
-
-`Kafka`\
-`FastAPI`\
-`PostgreSQL`\
-`XGBoost`
-
-```{=html}
+💳 LedgerStream
+Payment Processing
+& Fraud Detection
+Kafka
+FastAPI
+PostgreSQL
+XGBoost
 </td>
-```
-```{=html}
+
 <td width="33%" align="center">
-```
-### 📦 StockSense
 
-**AI-Driven\
-Inventory Planning**
-
-`Python`\
-`FastAPI`\
-`Pandas`\
-`Scikit-learn`
-
-```{=html}
+📦 StockSense
+AI-Driven
+Inventory Planning
+Python
+FastAPI
+Pandas
+Scikit-learn
 </td>
-```
-```{=html}
+
 <td width="33%" align="center">
-```
-### 📈 ConvertIQ
 
-**FinTech\
-A/B Testing**
-
-`Python`\
-`SQL`\
-`Statistics`\
-`RFM`
-
-```{=html}
+📈 ConvertIQ
+FinTech
+A/B Testing
+Python
+SQL
+Statistics
+RFM
 </td>
-```
-```{=html}
+
 </tr>
-```
-```{=html}
 </table>
+
+</div>
+
+a few things I care about
+<div align="center">
+
+01  Build
+    Don't just talk about ideas.
+
+02  Learn
+    Every project should teach me something.
+
+03  Understand
+    Know why the system works, not just how.
+
+04  Improve
+    The first version doesn't have to be perfect.
+
+05  Create
+    Keep making things that didn't exist before.
+
+</div>
+
+<div align="center">
+
+let's connect
+
+<a href="https://github.com/Thanushreems2005">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thanushree-m-s-345a5a282/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
+
+<a href="mailto:thanushreems2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+
+
+
+✦
+"I like making things that didn't exist yesterday."
+✦
+
+Thanks for stopping by.
+</div>
 ```
-:::a few things I care about
-01  Build     → Don't just talk about ideas.
-
-02  Learn     → Every project should teach me something.
-
-03  Understand → Know why the system works, not just how.
-
-04  Improve   → The first version doesn't have to be perfect.
-
-05  Create    → Keep making things that didn't exist before.
-::: {align="center"}
-## `let's connect`
-
-`<a href="https://github.com/Thanushreems2005">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>`{=html}
-`</a>`{=html}
-
-`<a href="https://www.linkedin.com/in/thanushree-m-s-345a5a282/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>`{=html}
-`</a>`{=html}
-
-`<a href="mailto:thanushreems2005@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>`{=html}
-`</a>`{=html}
-
-`<br>`{=html}`<br>`{=html}
-
-------------------------------------------------------------------------
-
-### ✦
-
-### *"I like making things that didn't exist yesterday."*
-
-### ✦
-:::
